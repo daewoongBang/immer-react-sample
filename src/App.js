@@ -1,8 +1,8 @@
 import React from 'react';
-import FormUseImmer from './Form_UseImmer';
+import FormUseImmerFU from './Form_UseImmer_FunctionalUpdate';
 
 function App() {
-  return <FormUseImmer />;
+  return <FormUseImmerFU />;
 }
 
 export default App;
